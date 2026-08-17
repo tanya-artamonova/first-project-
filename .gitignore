@@ -1,4 +1,6 @@
-# Logs
+secret.md
+
+#logs
 logs
 *.log
 npm-debug.log*
@@ -141,3 +143,4 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
